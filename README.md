@@ -1,10 +1,10 @@
 # pickME Color Picker
 
-**Note: pickME is currently in its early development stages. Some features may be incomplete or subject to change. Your feedback and contributions are highly appreciated as we work towards a stable release.**
+**Note: pickME is currently in its early development stages. Some features may be incomplete or subject to change. Your feedback and contributions are highly appreciated as I work towards a stable release.**
 
 ## Introduction
 
-pickME is a lightweight and user-friendly color picker tool designed to help you effortlessly capture and analyze colors from your screen. By simply clicking on any point on your display, pickME instantly provides you with the RGB values, hexadecimal representation, and HSL values of the selected color.
+pickME is a lightweight and user-friendly color picker tool designed to help you effortlessly capture and analyze colors from your screen. By simply clicking on any point on your display, pickME instantly provides you with the selected color's RGB values, hexadecimal representation, and HSL values.
 
 
 ## Features
