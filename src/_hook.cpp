@@ -1,5 +1,4 @@
 #include "_hook.h"
-#include "curses.h"
 #include <iostream>
 #include <iomanip>
 

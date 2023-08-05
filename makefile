@@ -12,10 +12,10 @@ OBJS = $(patsubst $(SRC_DIR)/%.cpp,$(BUILD_DIR)/%.o,$(SRCS))
 all: $(BUILD_DIR) $(BIN_DIR) $(EXEC)
 
 $(BUILD_DIR):
-	mkdir -p $(BUILD_DIR)
+	mkdir $(BUILD_DIR)
 
 $(BIN_DIR):
-	mkdir -p $(BIN_DIR)
+	mkdir $(BIN_DIR)
 
 $(BUILD_DIR)/%.o: $(SRC_DIR)/%.cpp
 	$(CC) $(CFLAGS) -c -o $@ $<
